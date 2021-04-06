@@ -7,9 +7,9 @@ import (
 	"testing"
 	"time"
 
+	"github.com/Galactic-Software/slack"
+	"github.com/Galactic-Software/slack/slacktest"
 	websocket "github.com/gorilla/websocket"
-	"github.com/slack-go/slack"
-	"github.com/slack-go/slack/slacktest"
 	"github.com/stretchr/testify/assert"
 )
 
