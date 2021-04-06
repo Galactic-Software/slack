@@ -1,4 +1,4 @@
-Slack API in Go [![GoDoc](https://godoc.org/github.com/Galactic-Software/slack?status.svg)](https://godoc.org/github.com/Galactic-Software/slack) [![Build Status](https://travis-ci.org/slack-go/slack.svg)](https://travis-ci.org/slack-go/slack)
+Slack API in Go [![GoDoc](https://godoc.org/github.com/Galactic-Software/slack?status.svg)](https://godoc.org/github.com/Galactic-Software/slack) [![Build Status](https://travis-ci.org/Galactic-Software/slack.svg)](https://travis-ci.org/Galactic-Software/slack)
 ===============
 This is the original Slack library for Go created by Norberto Lopes, transferred to a Github organization.
 
